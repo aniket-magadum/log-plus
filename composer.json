@@ -1,0 +1,19 @@
+{
+    "name": "aniket-magadum/log-plus",
+    "autoload": {
+        "psr-4": {
+            "AniketMagadum\\LogPlus\\": "src"
+        }
+    },
+    "extra": {
+        "statamic": {
+            "name": "Log Plus",
+            "description": "Log Plus addon"
+        },
+        "laravel": {
+            "providers": [
+                "AniketMagadum\\LogPlus\\ServiceProvider"
+            ]
+        }
+    }
+}
