@@ -5,6 +5,9 @@
             "AniketMagadum\\LogPlus\\": "src"
         }
     },
+    "require": {
+        "rap2hpoutre/laravel-log-viewer":"2.3.0"
+    },
     "extra": {
         "statamic": {
             "name": "Log Plus",
