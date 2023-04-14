@@ -1,14 +1,14 @@
 # Log Plus
 
-> Log Plus is a Statamic addon that does something pretty neat.
+> View your log files in a beautiful way rather than the boring terminal.
 
 ## Features
 
 This addon does:
 
-- This
-- And this
-- And even this
+- View all your log files
+- Manage the log files
+- Check and observe size of log files.
 
 ## How to Install
 
