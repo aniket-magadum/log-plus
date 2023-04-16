@@ -4,11 +4,7 @@
 
 ## Features
 
-This addon does:
-
-- View all your log files
-- Manage the log files
-- Check and observe size of log files.
+- A user friendly interface to navigate and manage your log files.
 
 ## How to Install
 
@@ -18,6 +14,11 @@ You can search for this addon in the `Tools > Addons` section of the Statamic co
 composer require aniket-magadum/log-plus
 ```
 
+> Remember! This is a paid addon so purchase a license before using it. 
+
 ## How to Use
 
-Here's where you can explain how to use this wonderful addon.
+Once the addon is installed and you have logged in to the statamic control panel. You can navigate to Tools > Utilities > Log Plus to navigate your log files.
+
+
+![utilities-page](https://user-images.githubusercontent.com/48653948/232280718-6c42092b-619c-4600-93e0-2196e5750f86.png)
