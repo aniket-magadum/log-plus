@@ -1,6 +1,6 @@
 # Log Plus
 
-> View your log files in a beautiful way rather than the boring terminal.
+> View your log files in a beautiful way rather than the boring terminal. Use Coupon Code `FIRST10` for 50% discount for first 10 users only.
 
 ## Features
 
